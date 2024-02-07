@@ -1,0 +1,12 @@
+﻿  music_manager.c
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(51,26): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(56,29): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(69,23): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(83,22): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(77,6): warning C4101: 'i': unreferenced local variable
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(135,23): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(157,23): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(192,23): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(211,23): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\aarya\source\repos\Rajgor_PA2\Rajgor_PA2\music_manager.c(223,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  Rajgor_PA2.vcxproj -> C:\Users\aarya\source\repos\Rajgor_PA2\x64\Debug\Rajgor_PA2.exe
